@@ -24,7 +24,7 @@ My research interests focus on software supply chain security, IoT security, pro
 
 # 🔥 News
 - *2025.09*: 🎉🎉 Two paper were accepted by the ASE 2025. One paper was accepted by the ToSEM 2025.
-
+- *2025.08*: 🎉🎉 One paper was accepted by the TSE 2025.
 
 # 📝 Publications 
 
