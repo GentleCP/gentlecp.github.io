@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Chaopeng Dong's Homepage"
-description              : "PhD Student at the Institute of Information Engineering, Chinese Academy of Sciences."
+description              : "Associate Professor at the HangZhou Dianzi University."
 repository               : "GentleCP/gentlecp.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -24,11 +24,11 @@ author:
   name             : "Chaopeng Dong"
   avatar           : "images/android-chrome-192x192.png"
   bio              : 
-  location         : "Beijing, China"
+  location         : "Hangzhou, Zhejiang"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=HXoIAjcAAAAJ"
-  email            : "dongchaopeng@iie.ac.cn"
+  email            : "chaopengcp@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
