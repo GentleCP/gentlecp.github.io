@@ -50,8 +50,11 @@ System Security (NDSS) Symposium*, 2025. (<span style="color:#FC4E2A">**CCF-A**<
 # 📚 Services
 - Referee of IEEE Transactions on Software Engineering (TSE)
 - Referee of Frontiers of Computer Science (FCS)
+- Referee of Transactions on Information Forensics & Security (TIFS)
+- Referee of IEEE Transactions on Dependable and Secure Computing (TDSC)
 
 # 🎖 Honors and Awards
+- ACM SIGSOFT <span style="color:#FC4E2A">**Distinguished Paper Award**</span> FSE 2026
 - **2024/2025**: National Scholarship.
 - **2025**: Director's Special Award, Institute of Information Engineering, Chinese Academy of Sciences
 - **2023**: Director's Excellence Award, Institute of Information Engineering, CAS.
